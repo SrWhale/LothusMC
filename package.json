@@ -1,0 +1,32 @@
+{
+  "name": "sucumba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set HTTPS=true && set SSL_CRT_FILE=./.cert/cert.pem && set SSL_KEY_FILE=./.cert/key.pem && node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@androz2091/discord-invites-tracker": "^1.2.3",
+    "@discordjs/voice": "^0.16.0",
+    "@tensorflow-models/qna": "^1.0.1",
+    "axios": "^1.3.5",
+    "brain.js": "^2.0.0-beta.23",
+    "canvas": "^2.11.2",
+    "chalk": "^4.1.2",
+    "cors": "^2.8.5",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "minecraft-server-util": "^5.4.2",
+    "mongodb": "^5.1.0",
+    "ms": "^2.1.3",
+    "pastebin-ts": "^1.3.0",
+    "redis": "^4.6.5"
+  }
+}

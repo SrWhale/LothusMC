@@ -1,0 +1,333 @@
+{
+    "admins": [
+        {
+            "id": "SAFADA KKKKKKKKK",
+            "senha": "%a2jBS3K8Hhe"
+        }
+    ],
+    "mutes": {
+        "cargosToAdd": [
+            "881945531201507348"
+        ],
+        "cargosToRemove": [
+            "887517245666893884",
+            "876925990398468177",
+            "913650663269994506",
+            "876897405063270420",
+            "876896736201801759",
+            "876896342818062406",
+            "876895549528350771"
+        ],
+        "canaisParaTerAcesso": [
+            "876910927948169276",
+            "748691106346303592",
+            "913468540407918622",
+            "748691110796329002",
+            "876908276065927248",
+            "875652717769547797",
+            "941563823700197396",
+            "876954213442256938",
+            "876913977857290331",
+            "895769552405807144",
+            "876854906881986590",
+            "878378193835413586",
+            "878377279502315521"
+        ],
+        "motivos": [
+            {
+                "name": "Divulgação Grave",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Divulgação Simples",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Incentivar Flood",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Ofensa à Jogador",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Ofensa à staff/servidor",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Comércio",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Spam",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Flood",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Conversa Explícita",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Toxidade ou outros",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            }
+        ]
+    },
+    "bans": {
+        "cargosToAdd": [
+            "918267534933893230"
+        ],
+        "cargosToRemove": [
+            "887517245666893884",
+            "876925990398468177",
+            "913650663269994506",
+            "876897405063270420",
+            "876896736201801759",
+            "876896342818062406",
+            "876895549528350771"
+        ],
+        "canaisParaTerAcesso": [
+            "876910927948169276",
+            "748691106346303592",
+            "913468540407918622",
+            "748691110796329002",
+            "876908276065927248",
+            "875652717769547797",
+            "876954213442256938",
+            "876913977857290331"
+        ],
+        "motivos": [
+            {
+                "name": "Hack",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Assumir uso de Hack",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Abuso de Bugs",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Invasão de Conta",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Tentativa de suborno à equipe",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Nickname inapropriado",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Ameaça",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Ameaça ao Servidor",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Desinformação",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Assédio/abuso verbal",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Chantagem",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Incentivar uso de programas ilegais",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Desobediência à staff",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Anti jogo (chat)",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            },
+            {
+                "name": "Discriminação",
+                "duration": "",
+                "required_roles": [
+                    ""
+                ]
+            }
+        ]
+    },
+    "antipalavras": {
+        "blacklist": [
+            "https://steamcommuniltys.com/tradeoffer/new/?partner=876116860",
+            "https://steamcommuniltys",
+            "www.",
+            "https://",
+            "puta",
+            "vadia",
+            "buceta",
+            "pau",
+            "cu",
+            "vagina",
+            "tola",
+            "bosta",
+            "lixo",
+            "fdp",
+            "filha da puta",
+            "preto",
+            "macaco",
+            "fudido",
+            "jogar.",
+            "redesky",
+            ".com",
+            ".net",
+            ".gg",
+            "com.br",
+            "mush",
+            ".xyz",
+            ".club",
+            ".vip",
+            ".online",
+            ".app",
+            ".site",
+            ".shop",
+            ".live",
+            ".store",
+            ".life",
+            "rededark",
+            "hylex",
+            "original.",
+            ".pirata"
+        ],
+        "whitelist": [
+            "https://www.redelegit.com.br/",
+            "www.redelegit.com.br/",
+            "jogar.redelegit.com.br",
+            "redelegit.com.br",
+            "https://imgur.com/",
+            "https://prnt.sc/"
+        ],
+        "bypassRoles": [
+            "887517245666893884",
+            "876925990398468177",
+            "913650663269994506",
+            "876897405063270420",
+            "876896736201801759",
+            "876896342818062406",
+            "876895549528350771",
+            "875813633744068729",
+            "716809071109472319",
+            "875813692581748746",
+            "986063673753731095"
+        ]
+    },
+    "canaisParaSubstituirMensagem": [
+        "1091162642284040332",
+        "1091162688635289640",
+        "1091410375162986616",
+        "1091410474022752406",
+        "1091410521787482122",
+        "1091157399563407492",
+        "1091753544278880287",
+        "1092127346208821359",
+        "1092126939239678012",
+        "1091408831633948762",
+        "1092126939239678012",
+        "1091165501931126785"
+    ],
+    "alterar_nicks_e_cargos": [
+        "702315643004780565",
+        "624997146453737472",
+        "1091457321042972845"
+    ],
+    "logs": {
+        "channel": "1094755420188450867"
+    },
+    "anti_fake": {
+        "time_to_block": "2d",
+        "role_to_add": "roleID",
+        "channes_to_acess": [
+            "canal 1 q terá acesso"
+        ]
+    }
+}
